@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nicholas, like reading, coding and street dance. Nice to meet you!
+
 <!--
 **Nicholas-cool/Nicholas-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
