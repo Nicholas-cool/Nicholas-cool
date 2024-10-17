@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Nicholas-cool)
+
 ### Hi there 👋
 
 I'm Nicholas, like reading, coding and street dance. Nice to meet you!
