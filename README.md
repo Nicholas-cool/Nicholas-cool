@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Nicholas-cool)
 
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-cool)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-cool&layout=compact)
