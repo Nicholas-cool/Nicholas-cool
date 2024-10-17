@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Nicholas-cool)
-
 ### Hi there 👋
 
 I'm Nicholas, like reading, coding and street dance. Nice to meet you!
@@ -19,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=Nicholas-cool)
+
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-cool)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-cool&layout=compact)
